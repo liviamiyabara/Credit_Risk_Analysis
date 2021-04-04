@@ -54,8 +54,8 @@ Different algorithms were used to oversample and undersample the data to create 
 
     Accuracy score of 78%. 
 
-    The high_risk precision is 1%, 72% recall, F1 of 2% only.
-    The low_risk precision is 100%, 57% recall, 72% F1.
+    The high_risk precision is 3%, 68% recall, F1 of 6% only.
+    The low_risk precision is 100%, 88% recall, 93% F1.
 
     ![ScreenShot](https://github.com/liviamiyabara/Credit_Risk_Analysis/blob/main/Resources/Balance_random.JPG)
 

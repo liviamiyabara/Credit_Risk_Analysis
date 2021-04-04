@@ -13,14 +13,16 @@
  ## Results
 Different algorithms were used to oversample and undersample the data to create the prediction model, below you can find the results of each method.
 
-* Naive Random Oversampling
+* **Naive Random Oversampling**
+
     Accuracy score of 65%. 
     The high_risk precision is 1%, 69% recall which makes, F1 of 2% only.
     The low_risk precision is 100%, 61% recall.
 
     ![ScreenShot](https://github.com/liviamiyabara/Credit_Risk_Analysis/blob/main/Resources/Naive_Random_Oversampling.JPG)
 
-* SMOTE Oversampling
+* **SMOTE Oversampling**
+
     Accuracy score of 66%. 
     The high_risk precision is 1%, 63% recall, F1 of 2% only.
     The low_risk precision is 100%, 69% recall, 82% F1.
